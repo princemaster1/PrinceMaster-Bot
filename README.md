@@ -1,14 +1,88 @@
-# PRINCEBOT-KE
+m<div align="center">
+<img src="https://k.top4top.io/p_22589xjh10.jpg" alt="YOGI" width="360" />
 
-
+</p>
+<p align="center">
+<a href="#"><img title="AMELIA-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+</div>
 
 <p align="center">
-Prince Bot is an automated whatsapp bot created by <a href="wa.me/254768371432" target="_blank">Prince</a> Follow my Github and give a Star ⭐ please <a href="https://github.com/princemaster1" target="_blank">Github</a> .
+  <a href="https://github.com/officialdittaz"><img title="Author" src="https://img.shields.io/badge/Author-officialdittaz-blue.svg?style=for-the-badge&logo=github" /></a>
+</p>
+<p align="center">
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Amelia-Botz&color=green"></a>
 </p>
 
 
-------
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗣𝗥𝗜𝗡𝗖𝗘+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙈𝘼𝙎𝙏𝙀𝙍+1;𝙏𝙃𝙄𝙎+𝙄𝙎+𝑨𝑵+𝑨𝑼𝑻𝑯𝑶𝑹𝑰𝑺𝑬𝑫+𝑾𝑨+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝗠𝗬+𝙂𝙄𝙏+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝙈𝙀+𝙄𝙁+𝙔𝙊𝙐+𝙉𝙀𝙀𝘿+𝙃𝙀𝙇𝙋+𝙏𝙃𝘼𝙉𝙆+𝙔𝙊𝙐)](https://git.io/typing-svg)
-                 
-# 𝑻𝑯𝑰𝑺 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑾𝑰𝑳𝑳 𝑩𝑬 𝑶𝑵 𝑺𝑶𝑶𝑵, 𝑷𝑳𝑬𝑨𝑺𝑬 𝑩𝑬 𝑷𝑨𝑻𝑰𝑬𝑵𝑻
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialdittaz&theme=monokai)
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=officialdittaz&label=VIEWS&style=flat-square&color=orange" />
+</p>
+
+## For Windows/Vps/Rdp
+
+* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/officialdittaz/Amelia-Botz
+cd Amelia-Botz
+npm i
+npm start
+```
+
+
+## For Termux
+```
+> termux-setup-storage
+> apt update && apt upgrade
+> pkg install nodejs
+> pkg install git 
+> pkg install libwebp 
+> pkg install bash
+> pkg install ffmpeg
+> Pkg install wget
+> cd /sdcard && cd SelfBot && npm start
+```
+
+## For Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
+
+### Install Buildpack
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+* https://github.com/alard/heroku-buildpack-phantomjs-wget.git
+* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+---
+
+## Connect With Me
+<p align="center">
+ <a href="https://instagram.com/officialdittaz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6285156137901"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
+
+
+# Thanks To
+* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Hexagonz`](https://github.com/hexagonz)
+* [`Yogipw`](https://github.com/yogipw)
+
+1. RUN PAKE PM@ + COLOR
+   run = "FORCE_COLOR=1 pm2 start index.js && pm2 save && pm2 save && pm2 logs --raw"
+2. HAPUS NODE MODULES
+   rm -r node_modules
+3. EDIT NODE MODULES
+   mv node_modules edit
+4.HAPUS SESSION
+   rm -rf session
+
+
